@@ -16,7 +16,7 @@ import altair as alt
 import locale
 from PIL import Image
 # import ia_page
-locale.setlocale(locale.LC_ALL, "pt_BR.UTF-8")
+# locale.setlocale(locale.LC_ALL, "pt_BR.UTF-8")
 
 st.set_page_config(
     page_title="Simulador de Risco de Ativos",
