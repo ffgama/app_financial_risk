@@ -31,8 +31,8 @@ with st.container():
     # Crie duas colunas
     col1, col2 = st.columns([1, 12])
 
-    with col1:
-        st.image(logo, width=600) 
+    # with col1:
+    #     st.image(logo, width=600) 
 
     with col2:
         st.title("RiskPilot")
