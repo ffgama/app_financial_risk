@@ -26,7 +26,7 @@ st.set_page_config(
 )
 
 with st.container():
-    logo = Image.open("logo_riskpilot.png")
+    # logo = Image.open("logo_riskpilot.png")
 
     # Crie duas colunas
     col1, col2 = st.columns([1, 12])
